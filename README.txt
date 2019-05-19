@@ -1,5 +1,5 @@
 Course project on Intro. to Optimization Spring 2018, UW-Madison.
-Authors: Zhuohan Li, Dongzheng Chen
+Authors: Zhuohan Li (zli627@wisc.edu), Dongzheng Chen ()
 
 Boundary element method (BEM) is a numerical method to solve contact mechanics problems of randomly rough surfaces, which include the long-range elastic interactions.
 Here, BEM is implemented as a regularized continuous quadratic program.
